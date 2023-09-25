@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "Hash": "ovHEFK70ywib8dD2YS1FoWVhuGibOMge5BH61oQ73to=",
+  "Source": "API",
+  "BasePath": "_content/API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "API\\wwwroot",
+      "Source": "API",
+      "ContentRoot": "C:\\Users\\pablo\\OneDrive\\Área de Trabalho\\2\\API\\API\\wwwroot\\",
+      "BasePath": "_content/API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\pablo\\OneDrive\\Área de Trabalho\\2\\API\\API\\wwwroot\\index.html",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\pablo\\OneDrive\\Área de Trabalho\\2\\API\\API\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\pablo\\OneDrive\\Área de Trabalho\\2\\API\\API\\wwwroot\\index.js",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\pablo\\OneDrive\\Área de Trabalho\\2\\API\\API\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "index.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.js"
+    },
+    {
+      "Identity": "C:\\Users\\pablo\\OneDrive\\Área de Trabalho\\2\\API\\API\\wwwroot\\styles.css",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\pablo\\OneDrive\\Área de Trabalho\\2\\API\\API\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "styles.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\styles.css"
+    }
+  ]
+}

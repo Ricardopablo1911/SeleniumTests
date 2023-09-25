@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>    
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="./styles.css">
+    <script src="./index.js"></script>
+</head>
+
+<body>
+    <header>
+        <div class="superior">
+        <button>Início</button>
+        <button>Testes</button>
+        <button>Erros</button>
+        <button>Tempo de Execução</button>
+        </div>
+    </header>
+    <main>
+        <div class="buttons-wrapper">
+            
+            <!-- Botão para abrir o pop-up -->
+            <button id="open-dialog">Abrir Pop-up</button>
+
+            <!-- Pop-up -->
+            <dialog id="dialog">
+                <form>
+                    <label for="text1">Link do sistema:</label>
+                    <input type="text" placeholder="http://sistema.clinicorp.br" id="text1"><br><br>
+                    <label for="text2">Email:</label>
+                    <input type="text" placeholder="seuemail@clinicorp.com" id="text2"><br><br>
+                    <label for="text3">Caminho:</label>
+                    <input type="text" placeholder="user/SeuPC/Downloads/Prints" id="text3"><br><br>
+                    <button type="submit">Enviar</button>
+                    <button type="button" id="close-dialog">Fechar</button>
+                </form>
+            </dialog>
+
+            <script>
+                var dialog = document.querySelector('#dialog');
+                var openDialogButton = document.querySelector('#open-dialog');
+                var closeDialogButton = document.querySelector('#close-dialog');
+                
+                // Abrir o pop-up quando o botão for clicado
+                openDialogButton.addEventListener('click', function() {
+                    dialog.showModal();
+                });
+                
+                // Fechar o pop-up quando o botão "Fechar" for clicado
+                closeDialogButton.addEventListener('click', function() {
+                    dialog.close();
+                });
+            </script>
+           
+            
+
+            <button onclick="menuInicio()">Menu/Inicio</button>       
+            <button>Agendar App</button>
+            <button onclick="animacao()">Agendar Botão+ <div id="barra-progresso"></div></button>
+            <button onclick="agendarDuplo()" >Agendar Duplo Clique</button>
+            <button onclick="alertaConsulta()">Criar Alerta de Consulta</button>
+            <button onclick="documentosPacientes()">Documentos Paciente</button>
+            <button onclick="relatoriosFinanceiros()">Relatórios Financeiros</button>
+            <button onclick="comissaoProcedimento()">Comissao por Procedimento Executado</button>
+            <button onclick="prontuarioPaciente()">Prontuário do Paciente</button>
+            <button onclick="aprovardesaprovarOrcamento()">Criar/Desaprovar Orçamento</button>
+            <button onclick="visualizarOdontograma()">Visualizar Odontograma</button>
+            <button onclick="fichaClinicaManual()">Ficha Clínica Manual</button>
+            <button onclick="excluirCadastrarPaciente()">Excluir/Cadastrar Paciente</button>
+            <button onclick="removerVisualizarFicha()">Visualizar/Remover Ficha</button>
+            <button onclick="abacaixa()">Visualizar Caixa</button>
+            <button onclick="comissaoOrcamento()">Comissão por Orçamento Aprovado</button>
+            <button onclick="consultaSpc()">Consulta SPC</button>
+            <button onclick="cartaoSistema()">CheckOut Cartão Sistema</button>
+            <button onclick="orcamentoPlano()">Orçamento Plano</button>
+            <button onclick="procedimentoExecutado()">Procedimento Executado</button>
+            <button onclick="checkoutUnificadoOrcamento()">CheckOut Unificado - Novo Orçamento</button>
+            <button onclick="novoUsuario()">Criar Novo Usuário</button>
+            <button onclick="procedimentoOdontograma()">Adicionar Procedimento Odontograma</button>
+            <button>Excluir/Cadastrar em Escala</button>
+            <button onclick="criarExcluirAnamnese()">Criar/Excluir Anamnese</button>
+            <button onclick="relatoriosTodos()">Relatórios</button>
+            <button onclick="comissaoPagamento()">Comissão por Recebimento</button>
+            <button onclick="visualizarTelaAgendamentoOnline()">Visualizar Tela de Agendamento Online</button>
+            <button onclick="financeiroClinica()">Financeiro Clínica</button>
+            <button onclick="fichaClinicaOrcamento()">Ficha Clínica - Orçamento</button>
+            <button onclick="resetSenha">Reset de Senha</button>
+            <button>Excluir/Cadastrar Profissional</button>
+            <button onclick="linkPagamento()">Link de Pagamento</button>
+        </div>
+    </main>
+    <footer>
+
+    </footer>
+</body>
+</html>

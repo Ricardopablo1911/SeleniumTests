@@ -1,0 +1,120 @@
+.superior {
+  /*display: inline;*/
+  margin: 0, auto;
+  text-align: center;
+  background-color: #d3d3d3;
+}
+#dialog input[type="text"] {
+  display: inline-block;
+  width: 30%;
+  margin: 0 10px;
+}
+
+#dialog form {
+  text-align: center;
+}
+
+  #barra-progresso {
+    display: none;
+    height: 4px;
+    background-color: blue;
+  }
+
+#info {
+  background-color: rgb(254, 57, 23);
+      color: white;
+      border: none;
+      padding: 10px;
+      cursor: pointer;
+}
+
+
+.btn-primary {
+    color: #fff;
+    background-color: #1b6ec2;
+    border-color: #1861ac;
+  }
+  
+  .nav-pills .nav-link.active, .nav-pills .show > .nav-link {
+    color: #fff;
+    background-color: #1b6ec2;
+    border-color: #1861ac;
+  }
+  /* Alinhar em colunas de 8 */
+  .buttons-wrapper {
+      display: grid;
+      grid-template-columns: repeat(8, 1fr);
+      grid-gap: 10px;
+  }
+  
+  /* Cor do botão */
+  button {
+      background-color: tomato;
+      color: white;
+      border: none;
+      padding: 10px;
+      cursor: pointer;
+  }
+  
+      /* Animação ao clicar */
+      button:hover, button:focus {
+          transform: scale(1.05);
+          transition: transform 0.2s ease-in-out;
+      }
+  
+  /* Adicionar margem para espaçamento */
+  main {
+      margin: 20px;
+  }
+  
+  
+  
+  
+  
+  
+  /* Sticky footer styles
+  -------------------------------------------------- */
+  html {
+    font-size: 14px;
+  }
+  @media (min-width: 768px) {
+    html {
+      font-size: 16px;
+    }
+  }
+  
+  .border-top {
+    border-top: 1px solid #e5e5e5;
+  }
+  .border-bottom {
+    border-bottom: 1px solid #e5e5e5;
+  }
+  
+  .box-shadow {
+    box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+  }
+  
+  button.accept-policy {
+    font-size: 1rem;
+    line-height: inherit;
+  }
+  
+  /* Sticky footer styles
+  -------------------------------------------------- */
+  html {
+    position: relative;
+    min-height: 100%;
+  }
+  
+  body {
+    /* Margin bottom by footer height */
+    margin-bottom: 60px;
+  }
+  .footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    white-space: nowrap;
+    line-height: 60px; /* Vertically center the text there */
+  }
+  

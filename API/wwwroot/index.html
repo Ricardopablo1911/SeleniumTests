@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>    
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="./styles.css">
+    <script src="./index.js"></script>
+</head>
+
+<body>
+    <header>
+        <div class="superior">
+        <button>Início</button>
+        <button>Testes</button>
+        <button>Erros</button>
+        <button>Tempo de Execução</button>
+        </div>
+    </header>
+    <main>
+        <div class="buttons-wrapper">
+            
+            
+            <button id="open-dialog">Abrir Pop-up</button>
+            <dialog id="dialog">
+                <form method="post">
+                    <label for="text1">Link do sistema:</label>
+                    <input type="text" placeholder="https://sistema.clinicorp.br" id="text1"><br><br>
+                    <label for="text2">Email:</label>
+                    <input type="text" placeholder="seuemail@clinicorp.com" id="text2"><br><br>
+                    <label for="text3">Caminho:</label>
+                    <input type="text" placeholder="user/SeuPC/Downloads/Prints" id="text3"><br><br>
+                    <button type="submit">Enviar</button>
+                    <button type="button" id="close-dialog">Fechar</button>
+                </form>
+                <label for="text">Você está utilizando um computador Windows?</label>
+                <input type="checkbox">
+            </dialog>
+
+            <script>
+                var dialog = document.querySelector('#dialog');
+                var form = document.querySelector('#dialog form');
+                var openDialogButton = document.querySelector('#open-dialog');
+                var closeDialogButton = document.querySelector('#close-dialog');
+            
+                openDialogButton.addEventListener('click', function() {
+                    dialog.showModal();
+                });
+            
+                closeDialogButton.addEventListener('click', function() {
+                    dialog.close();
+                });
+            
+                form.addEventListener('submit', function(event) {
+                    event.preventDefault(); // Evita que o formulário seja enviado normalmente
+                    dialog.close();
+                    
+                    var text1 = document.querySelector('#text1').value;
+                    var text2 = document.querySelector('#text2').value;
+                    var text3 = document.querySelector('#text3').value;
+            
+                    var data = {
+                        link: text1,
+                        email: text2,
+                        caminho: text3
+                    };
+            
+                    fetch('/api/enviarDados', {
+                        method: 'POST',
+                        headers: {
+                            'Content-Type': 'application/json'
+                        },
+                        body: JSON.stringify(data)
+                    })
+                    .then(function(response) {
+                        if (response.ok) {
+                            console.log('Dados enviados com sucesso!');
+                            console.log(data);
+                        } else {
+                            console.log('Erro ao enviar os dados:', response.statusText);
+                            
+                        }
+                    })
+                    .catch(function(error) {
+                        console.log('Erro ao enviar os dados:', error);
+                    });
+                });
+            </script>
+           
+            
+
+            <button onclick="menuInicio()">Menu/Inicio</button>       
+            <!-- <button>Agendar App</button>--> 
+            <button onclick="animacao()">Agendar Botão+ <div id="barra-progresso"></div></button>
+            <button onclick="agendarDuplo()" >Agendar Duplo Clique</button>
+            <button onclick="alertaConsulta()">Criar Alerta de Consulta</button>
+            <button onclick="documentosPacientes()">Documentos Paciente</button>
+            <button onclick="relatoriosFinanceiros()">Relatórios Financeiros</button>
+            <button onclick="comissaoProcedimento()">Comissao por Procedimento Executado</button>
+            <button onclick="prontuarioPaciente()">Prontuário do Paciente</button>
+            <button onclick="aprovardesaprovarOrcamento()">Criar/Desaprovar Orçamento</button>
+            <button onclick="visualizarOdontograma()">Visualizar Odontograma</button>
+            <button onclick="fichaClinicaManual()">Ficha Clínica Manual</button>
+            <button onclick="excluirCadastrarPaciente()">Excluir/Cadastrar Paciente</button>
+            <button onclick="removerVisualizarFicha()">Visualizar/Remover Ficha</button>
+            <button onclick="abacaixa()">Visualizar Caixa</button>
+            <button onclick="comissaoOrcamento()">Comissão por Orçamento Aprovado</button>
+            <button onclick="consultaSpc()">Consulta SPC</button>
+            <button onclick="cartaoSistema()">CheckOut Cartão Sistema</button>
+            <button onclick="orcamentoPlano()">Orçamento Plano</button>
+            <button onclick="procedimentoExecutado()">Procedimento Executado</button>
+            <button onclick="checkoutUnificadoOrcamento()">CheckOut Unificado - Novo Orçamento</button>
+            <button onclick="novoUsuario()">Criar Novo Usuário</button>
+            <button onclick="procedimentoOdontograma()">Adicionar Procedimento Odontograma</button>
+            <!-- <button>Excluir/Cadastrar em Escala</button> -->
+            <button onclick="criarExcluirAnamnese()">Criar/Excluir Anamnese</button>
+            <button onclick="relatoriosTodos()">Relatórios</button>
+            <button onclick="comissaoPagamento()">Comissão por Recebimento</button>
+            <button onclick="visualizarTelaAgendamentoOnline()">Visualizar Tela de Agendamento Online</button>
+            <button onclick="financeiroClinica()">Financeiro Clínica</button>
+            <button onclick="fichaClinicaOrcamento()">Ficha Clínica - Orçamento</button>
+            <button onclick="resetSenha()">Reset de Senha</button>
+            <!-- <button>Excluir/Cadastrar Profissional</button> -->
+            <button onclick="linkPagamento()">Link de Pagamento</button>
+        </div>
+    </main>
+    <footer>
+
+    </footer>
+</body>
+</html>

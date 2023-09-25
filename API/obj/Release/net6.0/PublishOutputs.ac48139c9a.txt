@@ -1,0 +1,180 @@
+/Users/pablosouza/Desktop/Public/API/API
+/Users/pablosouza/Desktop/Public/API/appsettings.Development.json
+/Users/pablosouza/Desktop/Public/API/appsettings.json
+/Users/pablosouza/Desktop/Public/API/Testes/Agendar Btn+.cs
+/Users/pablosouza/Desktop/Public/API/Testes/Agendar Duplo Clique.cs
+/Users/pablosouza/Desktop/Public/API/Testes/AlertadeConsulta.cs
+/Users/pablosouza/Desktop/Public/API/Testes/Aprovar e Desaprovar Or‡amento.cs
+/Users/pablosouza/Desktop/Public/API/Testes/Caixa.cs
+/Users/pablosouza/Desktop/Public/API/Testes/CartֶoSistema.cs
+/Users/pablosouza/Desktop/Public/API/Testes/Comissֶo por Or‡amento.cs
+/Users/pablosouza/Desktop/Public/API/Testes/Comissֶo por Pagamento.cs
+/Users/pablosouza/Desktop/Public/API/Testes/Comissֶo por Procedimento.cs
+/Users/pablosouza/Desktop/Public/API/Testes/Consulta SPC.cs
+/Users/pablosouza/Desktop/Public/API/Testes/Criar Novo Usuario.cs
+/Users/pablosouza/Desktop/Public/API/Testes/Criar_Excluir Anamnese.cs
+/Users/pablosouza/Desktop/Public/API/Testes/Documentos Paciente.cs
+/Users/pablosouza/Desktop/Public/API/Testes/ExcluirCadastrarPaciente.cs
+/Users/pablosouza/Desktop/Public/API/Testes/Ficha Clinica - Or‡amento.cs
+/Users/pablosouza/Desktop/Public/API/Testes/Ficha Clinica Manual.cs
+/Users/pablosouza/Desktop/Public/API/Testes/Financeiro Clinica.cs
+/Users/pablosouza/Desktop/Public/API/Testes/Funcoes.cs
+/Users/pablosouza/Desktop/Public/API/Testes/Link de Pagamengo.cs
+/Users/pablosouza/Desktop/Public/API/Testes/Menu_Inicio.cs
+/Users/pablosouza/Desktop/Public/API/Testes/Or‡amentoPlano.cs
+/Users/pablosouza/Desktop/Public/API/Testes/Pacientes.cs
+/Users/pablosouza/Desktop/Public/API/Testes/Procedimento Executado.cs
+/Users/pablosouza/Desktop/Public/API/Testes/Procedimento Odontograma.cs
+/Users/pablosouza/Desktop/Public/API/Testes/Prontuario - Copia.cs
+/Users/pablosouza/Desktop/Public/API/Testes/Relatขrios Financeiros.cs
+/Users/pablosouza/Desktop/Public/API/Testes/Relatขrios.cs
+/Users/pablosouza/Desktop/Public/API/Testes/Reset de Senha.cs
+/Users/pablosouza/Desktop/Public/API/Testes/Visualizar Odontograma.cs
+/Users/pablosouza/Desktop/Public/API/Testes/Visualizar Tela de Agendamento Online.cs
+/Users/pablosouza/Desktop/Public/API/Testes/Visualizar_Remover ficha de Alinhadores.cs
+/Users/pablosouza/Desktop/Public/API/Controllers/WeatherForecastController.cs
+/Users/pablosouza/Desktop/Public/API/Fixtures/chromedriver
+/Users/pablosouza/Desktop/Public/API/Fixtures/chromedriver.exe
+/Users/pablosouza/Desktop/Public/API/Fixtures/CollectionFixture.cs
+/Users/pablosouza/Desktop/Public/API/Fixtures/TestFixture.cs
+/Users/pablosouza/Desktop/Public/API/Helpers/chromedriver
+/Users/pablosouza/Desktop/Public/API/Helpers/chromedriver.exe
+/Users/pablosouza/Desktop/Public/API/Helpers/TestHelpers.cs
+/Users/pablosouza/Desktop/Public/API/Models/Caminho.cs
+/Users/pablosouza/Desktop/Public/API/packages/Microsoft.DotNet.PlatformAbstractions.3.1.6/Icon.png
+/Users/pablosouza/Desktop/Public/API/packages/Microsoft.DotNet.PlatformAbstractions.3.1.6/lib/net45/Microsoft.DotNet.PlatformAbstractions.dll
+/Users/pablosouza/Desktop/Public/API/packages/Microsoft.DotNet.PlatformAbstractions.3.1.6/lib/net45/Microsoft.DotNet.PlatformAbstractions.xml
+/Users/pablosouza/Desktop/Public/API/packages/Microsoft.DotNet.PlatformAbstractions.3.1.6/lib/netstandard1.3/Microsoft.DotNet.PlatformAbstractions.dll
+/Users/pablosouza/Desktop/Public/API/packages/Microsoft.DotNet.PlatformAbstractions.3.1.6/lib/netstandard1.3/Microsoft.DotNet.PlatformAbstractions.xml
+/Users/pablosouza/Desktop/Public/API/packages/Microsoft.DotNet.PlatformAbstractions.3.1.6/lib/netstandard2.0/Microsoft.DotNet.PlatformAbstractions.dll
+/Users/pablosouza/Desktop/Public/API/packages/Microsoft.DotNet.PlatformAbstractions.3.1.6/lib/netstandard2.0/Microsoft.DotNet.PlatformAbstractions.xml
+/Users/pablosouza/Desktop/Public/API/packages/Microsoft.DotNet.PlatformAbstractions.3.1.6/LICENSE.TXT
+/Users/pablosouza/Desktop/Public/API/packages/Microsoft.DotNet.PlatformAbstractions.3.1.6/Microsoft.DotNet.PlatformAbstractions.3.1.6.nupkg
+/Users/pablosouza/Desktop/Public/API/packages/Microsoft.DotNet.PlatformAbstractions.3.1.6/THIRD-PARTY-NOTICES.TXT
+/Users/pablosouza/Desktop/Public/API/packages/Newtonsoft.Json.13.0.2/lib/net20/Newtonsoft.Json.dll
+/Users/pablosouza/Desktop/Public/API/packages/Newtonsoft.Json.13.0.2/lib/net20/Newtonsoft.Json.xml
+/Users/pablosouza/Desktop/Public/API/packages/Newtonsoft.Json.13.0.2/lib/net35/Newtonsoft.Json.dll
+/Users/pablosouza/Desktop/Public/API/packages/Newtonsoft.Json.13.0.2/lib/net35/Newtonsoft.Json.xml
+/Users/pablosouza/Desktop/Public/API/packages/Newtonsoft.Json.13.0.2/lib/net40/Newtonsoft.Json.dll
+/Users/pablosouza/Desktop/Public/API/packages/Newtonsoft.Json.13.0.2/lib/net40/Newtonsoft.Json.xml
+/Users/pablosouza/Desktop/Public/API/packages/Newtonsoft.Json.13.0.2/lib/net45/Newtonsoft.Json.dll
+/Users/pablosouza/Desktop/Public/API/packages/Newtonsoft.Json.13.0.2/lib/net45/Newtonsoft.Json.xml
+/Users/pablosouza/Desktop/Public/API/packages/Newtonsoft.Json.13.0.2/lib/net6.0/Newtonsoft.Json.dll
+/Users/pablosouza/Desktop/Public/API/packages/Newtonsoft.Json.13.0.2/lib/net6.0/Newtonsoft.Json.xml
+/Users/pablosouza/Desktop/Public/API/packages/Newtonsoft.Json.13.0.2/lib/netstandard1.0/Newtonsoft.Json.dll
+/Users/pablosouza/Desktop/Public/API/packages/Newtonsoft.Json.13.0.2/lib/netstandard1.0/Newtonsoft.Json.xml
+/Users/pablosouza/Desktop/Public/API/packages/Newtonsoft.Json.13.0.2/lib/netstandard1.3/Newtonsoft.Json.dll
+/Users/pablosouza/Desktop/Public/API/packages/Newtonsoft.Json.13.0.2/lib/netstandard1.3/Newtonsoft.Json.xml
+/Users/pablosouza/Desktop/Public/API/packages/Newtonsoft.Json.13.0.2/lib/netstandard2.0/Newtonsoft.Json.dll
+/Users/pablosouza/Desktop/Public/API/packages/Newtonsoft.Json.13.0.2/lib/netstandard2.0/Newtonsoft.Json.xml
+/Users/pablosouza/Desktop/Public/API/packages/Newtonsoft.Json.13.0.2/LICENSE.md
+/Users/pablosouza/Desktop/Public/API/packages/Newtonsoft.Json.13.0.2/Newtonsoft.Json.13.0.2.nupkg
+/Users/pablosouza/Desktop/Public/API/packages/Newtonsoft.Json.13.0.2/packageIcon.png
+/Users/pablosouza/Desktop/Public/API/packages/Newtonsoft.Json.13.0.2/README.md
+/Users/pablosouza/Desktop/Public/API/packages/Selenium.WebDriver.4.8.1/build/Selenium.WebDriver.targets
+/Users/pablosouza/Desktop/Public/API/packages/Selenium.WebDriver.4.8.1/images/icon.png
+/Users/pablosouza/Desktop/Public/API/packages/Selenium.WebDriver.4.8.1/lib/net45/WebDriver.dll
+/Users/pablosouza/Desktop/Public/API/packages/Selenium.WebDriver.4.8.1/lib/net46/WebDriver.dll
+/Users/pablosouza/Desktop/Public/API/packages/Selenium.WebDriver.4.8.1/lib/net47/WebDriver.dll
+/Users/pablosouza/Desktop/Public/API/packages/Selenium.WebDriver.4.8.1/lib/net48/WebDriver.dll
+/Users/pablosouza/Desktop/Public/API/packages/Selenium.WebDriver.4.8.1/lib/net5.0/WebDriver.dll
+/Users/pablosouza/Desktop/Public/API/packages/Selenium.WebDriver.4.8.1/lib/net6.0/WebDriver.dll
+/Users/pablosouza/Desktop/Public/API/packages/Selenium.WebDriver.4.8.1/lib/netstandard2.0/WebDriver.dll
+/Users/pablosouza/Desktop/Public/API/packages/Selenium.WebDriver.4.8.1/lib/netstandard2.1/WebDriver.dll
+/Users/pablosouza/Desktop/Public/API/packages/Selenium.WebDriver.4.8.1/manager/linux/selenium-manager
+/Users/pablosouza/Desktop/Public/API/packages/Selenium.WebDriver.4.8.1/manager/macos/selenium-manager
+/Users/pablosouza/Desktop/Public/API/packages/Selenium.WebDriver.4.8.1/manager/windows/selenium-manager.exe
+/Users/pablosouza/Desktop/Public/API/packages/Selenium.WebDriver.4.8.1/Selenium.WebDriver.4.8.1.nupkg
+/Users/pablosouza/Desktop/Public/API/packages/Selenium.WebDriver.ChromeDriver.110.0.5481.7700/build/DefinePropertiesChromeDriver.targets
+/Users/pablosouza/Desktop/Public/API/packages/Selenium.WebDriver.ChromeDriver.110.0.5481.7700/build/Selenium.WebDriver.ChromeDriver.targets
+/Users/pablosouza/Desktop/Public/API/packages/Selenium.WebDriver.ChromeDriver.110.0.5481.7700/driver/linux64/chromedriver
+/Users/pablosouza/Desktop/Public/API/packages/Selenium.WebDriver.ChromeDriver.110.0.5481.7700/driver/mac64/chromedriver
+/Users/pablosouza/Desktop/Public/API/packages/Selenium.WebDriver.ChromeDriver.110.0.5481.7700/driver/mac64arm/chromedriver
+/Users/pablosouza/Desktop/Public/API/packages/Selenium.WebDriver.ChromeDriver.110.0.5481.7700/driver/win32/chromedriver.exe
+/Users/pablosouza/Desktop/Public/API/packages/Selenium.WebDriver.ChromeDriver.110.0.5481.7700/nupkg-icon.png
+/Users/pablosouza/Desktop/Public/API/packages/Selenium.WebDriver.ChromeDriver.110.0.5481.7700/README.md
+/Users/pablosouza/Desktop/Public/API/packages/Selenium.WebDriver.ChromeDriver.110.0.5481.7700/Selenium.WebDriver.ChromeDriver.110.0.5481.7700.nupkg
+/Users/pablosouza/Desktop/Public/API/packages/System.Runtime.InteropServices.RuntimeInformation.4.0.0/dotnet_library_license.txt
+/Users/pablosouza/Desktop/Public/API/packages/System.Runtime.InteropServices.RuntimeInformation.4.0.0/lib/MonoAndroid10/_._
+/Users/pablosouza/Desktop/Public/API/packages/System.Runtime.InteropServices.RuntimeInformation.4.0.0/lib/MonoTouch10/_._
+/Users/pablosouza/Desktop/Public/API/packages/System.Runtime.InteropServices.RuntimeInformation.4.0.0/lib/net45/System.Runtime.InteropServices.RuntimeInformation.dll
+/Users/pablosouza/Desktop/Public/API/packages/System.Runtime.InteropServices.RuntimeInformation.4.0.0/lib/win8/System.Runtime.InteropServices.RuntimeInformation.dll
+/Users/pablosouza/Desktop/Public/API/packages/System.Runtime.InteropServices.RuntimeInformation.4.0.0/lib/wpa81/System.Runtime.InteropServices.RuntimeInformation.dll
+/Users/pablosouza/Desktop/Public/API/packages/System.Runtime.InteropServices.RuntimeInformation.4.0.0/lib/xamarinios10/_._
+/Users/pablosouza/Desktop/Public/API/packages/System.Runtime.InteropServices.RuntimeInformation.4.0.0/lib/xamarinmac20/_._
+/Users/pablosouza/Desktop/Public/API/packages/System.Runtime.InteropServices.RuntimeInformation.4.0.0/lib/xamarintvos10/_._
+/Users/pablosouza/Desktop/Public/API/packages/System.Runtime.InteropServices.RuntimeInformation.4.0.0/lib/xamarinwatchos10/_._
+/Users/pablosouza/Desktop/Public/API/packages/System.Runtime.InteropServices.RuntimeInformation.4.0.0/ref/MonoAndroid10/_._
+/Users/pablosouza/Desktop/Public/API/packages/System.Runtime.InteropServices.RuntimeInformation.4.0.0/ref/MonoTouch10/_._
+/Users/pablosouza/Desktop/Public/API/packages/System.Runtime.InteropServices.RuntimeInformation.4.0.0/ref/netstandard1.1/System.Runtime.InteropServices.RuntimeInformation.dll
+/Users/pablosouza/Desktop/Public/API/packages/System.Runtime.InteropServices.RuntimeInformation.4.0.0/ref/xamarinios10/_._
+/Users/pablosouza/Desktop/Public/API/packages/System.Runtime.InteropServices.RuntimeInformation.4.0.0/ref/xamarinmac20/_._
+/Users/pablosouza/Desktop/Public/API/packages/System.Runtime.InteropServices.RuntimeInformation.4.0.0/ref/xamarintvos10/_._
+/Users/pablosouza/Desktop/Public/API/packages/System.Runtime.InteropServices.RuntimeInformation.4.0.0/ref/xamarinwatchos10/_._
+/Users/pablosouza/Desktop/Public/API/packages/System.Runtime.InteropServices.RuntimeInformation.4.0.0/runtimes/aot/lib/netcore50/System.Runtime.InteropServices.RuntimeInformation.dll
+/Users/pablosouza/Desktop/Public/API/packages/System.Runtime.InteropServices.RuntimeInformation.4.0.0/runtimes/unix/lib/netstandard1.1/System.Runtime.InteropServices.RuntimeInformation.dll
+/Users/pablosouza/Desktop/Public/API/packages/System.Runtime.InteropServices.RuntimeInformation.4.0.0/runtimes/win/lib/net45/System.Runtime.InteropServices.RuntimeInformation.dll
+/Users/pablosouza/Desktop/Public/API/packages/System.Runtime.InteropServices.RuntimeInformation.4.0.0/runtimes/win/lib/netcore50/System.Runtime.InteropServices.RuntimeInformation.dll
+/Users/pablosouza/Desktop/Public/API/packages/System.Runtime.InteropServices.RuntimeInformation.4.0.0/runtimes/win/lib/netstandard1.1/System.Runtime.InteropServices.RuntimeInformation.dll
+/Users/pablosouza/Desktop/Public/API/packages/System.Runtime.InteropServices.RuntimeInformation.4.0.0/System.Runtime.InteropServices.RuntimeInformation.4.0.0.nupkg
+/Users/pablosouza/Desktop/Public/API/packages/System.Runtime.InteropServices.RuntimeInformation.4.0.0/ThirdPartyNotices.txt
+/Users/pablosouza/Desktop/Public/API/Properties/launchSettings.json
+/Users/pablosouza/Desktop/Public/API/Properties/PublishProfiles/FolderProfile 1.pubxml
+/Users/pablosouza/Desktop/Public/API/Properties/PublishProfiles/FolderProfile 2.pubxml
+/Users/pablosouza/Desktop/Public/API/Properties/PublishProfiles/FolderProfile.pubxml
+/Users/pablosouza/Desktop/Public/API/Properties/Startup.cs
+/Users/pablosouza/Desktop/Public/API/InterfaceServer/chromedriver
+/Users/pablosouza/Desktop/Public/API/InterfaceServer/index.html
+/Users/pablosouza/Desktop/Public/API/InterfaceServer/index.js
+/Users/pablosouza/Desktop/Public/API/InterfaceServer/styles.css
+/Users/pablosouza/Desktop/Public/API/Views/Home/Index.cshtml
+/Users/pablosouza/Desktop/Public/API/selenium-manager/linux/selenium-manager
+/Users/pablosouza/Desktop/Public/API/selenium-manager/macos/selenium-manager
+/Users/pablosouza/Desktop/Public/API/selenium-manager/windows/selenium-manager.exe
+/Users/pablosouza/Desktop/Public/API/API.dll
+/Users/pablosouza/Desktop/Public/API/API.runtimeconfig.json
+/Users/pablosouza/Desktop/Public/API/API.pdb
+/Users/pablosouza/Desktop/Public/API/DnsClient.dll
+/Users/pablosouza/Desktop/Public/API/SeleniumExtras.WaitHelpers.dll
+/Users/pablosouza/Desktop/Public/API/ExtentReports.dll
+/Users/pablosouza/Desktop/Public/API/JsonSubTypes.dll
+/Users/pablosouza/Desktop/Public/API/mailslurp.dll
+/Users/pablosouza/Desktop/Public/API/System.Web.Cors.dll
+/Users/pablosouza/Desktop/Public/API/Microsoft.AspNetCore.Razor.Language.dll
+/Users/pablosouza/Desktop/Public/API/Microsoft.AspNetCore.Server.Kestrel.Https.dll
+/Users/pablosouza/Desktop/Public/API/Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+/Users/pablosouza/Desktop/Public/API/Microsoft.CodeAnalysis.dll
+/Users/pablosouza/Desktop/Public/API/Microsoft.CodeAnalysis.CSharp.dll
+/Users/pablosouza/Desktop/Public/API/Microsoft.EntityFrameworkCore.dll
+/Users/pablosouza/Desktop/Public/API/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/pablosouza/Desktop/Public/API/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/pablosouza/Desktop/Public/API/Microsoft.Extensions.Caching.Memory.dll
+/Users/pablosouza/Desktop/Public/API/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/pablosouza/Desktop/Public/API/Microsoft.Extensions.DependencyInjection.dll
+/Users/pablosouza/Desktop/Public/API/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/pablosouza/Desktop/Public/API/Microsoft.Extensions.Logging.dll
+/Users/pablosouza/Desktop/Public/API/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/pablosouza/Desktop/Public/API/Microsoft.Extensions.Options.dll
+/Users/pablosouza/Desktop/Public/API/Microsoft.Extensions.Primitives.dll
+/Users/pablosouza/Desktop/Public/API/Microsoft.OpenApi.dll
+/Users/pablosouza/Desktop/Public/API/MongoDB.Bson.dll
+/Users/pablosouza/Desktop/Public/API/MongoDB.Driver.dll
+/Users/pablosouza/Desktop/Public/API/MongoDB.Driver.Core.dll
+/Users/pablosouza/Desktop/Public/API/MongoDB.Libmongocrypt.dll
+/Users/pablosouza/Desktop/Public/API/Newtonsoft.Json.dll
+/Users/pablosouza/Desktop/Public/API/Polly.dll
+/Users/pablosouza/Desktop/Public/API/RazorEngine.NetCore.dll
+/Users/pablosouza/Desktop/Public/API/RestSharp.dll
+/Users/pablosouza/Desktop/Public/API/WebDriver.dll
+/Users/pablosouza/Desktop/Public/API/SharpCompress.dll
+/Users/pablosouza/Desktop/Public/API/Swashbuckle.AspNetCore.Swagger.dll
+/Users/pablosouza/Desktop/Public/API/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/pablosouza/Desktop/Public/API/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/pablosouza/Desktop/Public/API/System.Security.Permissions.dll
+/Users/pablosouza/Desktop/Public/API/System.Text.Encodings.Web.dll
+/Users/pablosouza/Desktop/Public/API/xunit.abstractions.dll
+/Users/pablosouza/Desktop/Public/API/xunit.assert.dll
+/Users/pablosouza/Desktop/Public/API/xunit.core.dll
+/Users/pablosouza/Desktop/Public/API/xunit.execution.dotnet.dll
+/Users/pablosouza/Desktop/Public/API/runtimes/browser/lib/net6.0/System.Text.Encodings.Web.dll
+/Users/pablosouza/Desktop/Public/API/API.deps.json

@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "Hash": "SjACq76BPO3ocTZTOt2CH74C6mos1s7mTQ7h4en43ew=",
+  "Source": "API",
+  "BasePath": "_content/API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "API/wwwroot",
+      "Source": "API",
+      "ContentRoot": "/Users/pablosouza/Desktop/API/API/API/wwwroot/",
+      "BasePath": "_content/API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/pablosouza/Desktop/API/API/API/wwwroot/index.html",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/pablosouza/Desktop/API/API/API/wwwroot/",
+      "BasePath": "_content/API",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/index.html"
+    },
+    {
+      "Identity": "/Users/pablosouza/Desktop/API/API/API/wwwroot/index.js",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/pablosouza/Desktop/API/API/API/wwwroot/",
+      "BasePath": "_content/API",
+      "RelativePath": "index.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/index.js"
+    },
+    {
+      "Identity": "/Users/pablosouza/Desktop/API/API/API/wwwroot/styles.css",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/pablosouza/Desktop/API/API/API/wwwroot/",
+      "BasePath": "_content/API",
+      "RelativePath": "styles.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/styles.css"
+    }
+  ]
+}

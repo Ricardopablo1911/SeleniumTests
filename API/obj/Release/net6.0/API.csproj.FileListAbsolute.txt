@@ -1,0 +1,163 @@
+/Users/pablosouza/Desktop/API/API/API/bin/Release/net6.0/appsettings.Development.json
+/Users/pablosouza/Desktop/API/API/API/bin/Release/net6.0/appsettings.json
+/Users/pablosouza/Desktop/API/API/API/bin/Release/net6.0/API.staticwebassets.runtime.json
+/Users/pablosouza/Desktop/API/API/API/bin/Release/net6.0/selenium-manager/linux/selenium-manager
+/Users/pablosouza/Desktop/API/API/API/bin/Release/net6.0/selenium-manager/macos/selenium-manager
+/Users/pablosouza/Desktop/API/API/API/bin/Release/net6.0/selenium-manager/windows/selenium-manager.exe
+/Users/pablosouza/Desktop/API/API/API/bin/Release/net6.0/API
+/Users/pablosouza/Desktop/API/API/API/bin/Release/net6.0/API.deps.json
+/Users/pablosouza/Desktop/API/API/API/bin/Release/net6.0/API.runtimeconfig.json
+/Users/pablosouza/Desktop/API/API/API/bin/Release/net6.0/API.dll
+/Users/pablosouza/Desktop/API/API/API/bin/Release/net6.0/API.pdb
+/Users/pablosouza/Desktop/API/API/API/bin/Release/net6.0/DnsClient.dll
+/Users/pablosouza/Desktop/API/API/API/bin/Release/net6.0/SeleniumExtras.WaitHelpers.dll
+/Users/pablosouza/Desktop/API/API/API/bin/Release/net6.0/ExtentReports.dll
+/Users/pablosouza/Desktop/API/API/API/bin/Release/net6.0/Humanizer.dll
+/Users/pablosouza/Desktop/API/API/API/bin/Release/net6.0/JsonSubTypes.dll
+/Users/pablosouza/Desktop/API/API/API/bin/Release/net6.0/mailslurp.dll
+/Users/pablosouza/Desktop/API/API/API/bin/Release/net6.0/System.Web.Cors.dll
+/Users/pablosouza/Desktop/API/API/API/bin/Release/net6.0/Microsoft.AspNetCore.Razor.Language.dll
+/Users/pablosouza/Desktop/API/API/API/bin/Release/net6.0/Microsoft.AspNetCore.Server.Kestrel.Https.dll
+/Users/pablosouza/Desktop/API/API/API/bin/Release/net6.0/Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+/Users/pablosouza/Desktop/API/API/API/bin/Release/net6.0/Microsoft.CodeAnalysis.dll
+/Users/pablosouza/Desktop/API/API/API/bin/Release/net6.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/pablosouza/Desktop/API/API/API/bin/Release/net6.0/Microsoft.EntityFrameworkCore.dll
+/Users/pablosouza/Desktop/API/API/API/bin/Release/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/pablosouza/Desktop/API/API/API/bin/Release/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/pablosouza/Desktop/API/API/API/bin/Release/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/pablosouza/Desktop/API/API/API/bin/Release/net6.0/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/pablosouza/Desktop/API/API/API/bin/Release/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/pablosouza/Desktop/API/API/API/bin/Release/net6.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/pablosouza/Desktop/API/API/API/bin/Release/net6.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/pablosouza/Desktop/API/API/API/bin/Release/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/pablosouza/Desktop/API/API/API/bin/Release/net6.0/Microsoft.Extensions.DependencyModel.dll
+/Users/pablosouza/Desktop/API/API/API/bin/Release/net6.0/Microsoft.Extensions.Logging.dll
+/Users/pablosouza/Desktop/API/API/API/bin/Release/net6.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/pablosouza/Desktop/API/API/API/bin/Release/net6.0/Microsoft.Extensions.Options.dll
+/Users/pablosouza/Desktop/API/API/API/bin/Release/net6.0/Microsoft.Extensions.Primitives.dll
+/Users/pablosouza/Desktop/API/API/API/bin/Release/net6.0/Microsoft.OpenApi.dll
+/Users/pablosouza/Desktop/API/API/API/bin/Release/net6.0/MongoDB.Bson.dll
+/Users/pablosouza/Desktop/API/API/API/bin/Release/net6.0/MongoDB.Driver.dll
+/Users/pablosouza/Desktop/API/API/API/bin/Release/net6.0/MongoDB.Driver.Core.dll
+/Users/pablosouza/Desktop/API/API/API/bin/Release/net6.0/MongoDB.Libmongocrypt.dll
+/Users/pablosouza/Desktop/API/API/API/bin/Release/net6.0/Mono.TextTemplating.dll
+/Users/pablosouza/Desktop/API/API/API/bin/Release/net6.0/Newtonsoft.Json.dll
+/Users/pablosouza/Desktop/API/API/API/bin/Release/net6.0/Polly.dll
+/Users/pablosouza/Desktop/API/API/API/bin/Release/net6.0/RazorEngine.NetCore.dll
+/Users/pablosouza/Desktop/API/API/API/bin/Release/net6.0/RestSharp.dll
+/Users/pablosouza/Desktop/API/API/API/bin/Release/net6.0/WebDriver.dll
+/Users/pablosouza/Desktop/API/API/API/bin/Release/net6.0/SharpCompress.dll
+/Users/pablosouza/Desktop/API/API/API/bin/Release/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/pablosouza/Desktop/API/API/API/bin/Release/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/pablosouza/Desktop/API/API/API/bin/Release/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/pablosouza/Desktop/API/API/API/bin/Release/net6.0/System.CodeDom.dll
+/Users/pablosouza/Desktop/API/API/API/bin/Release/net6.0/System.Security.Permissions.dll
+/Users/pablosouza/Desktop/API/API/API/bin/Release/net6.0/System.Text.Encodings.Web.dll
+/Users/pablosouza/Desktop/API/API/API/bin/Release/net6.0/System.Text.Json.dll
+/Users/pablosouza/Desktop/API/API/API/bin/Release/net6.0/xunit.abstractions.dll
+/Users/pablosouza/Desktop/API/API/API/bin/Release/net6.0/xunit.assert.dll
+/Users/pablosouza/Desktop/API/API/API/bin/Release/net6.0/xunit.core.dll
+/Users/pablosouza/Desktop/API/API/API/bin/Release/net6.0/xunit.execution.dotnet.dll
+/Users/pablosouza/Desktop/API/API/API/bin/Release/net6.0/runtimes/browser/lib/net6.0/System.Text.Encodings.Web.dll
+/Users/pablosouza/Desktop/API/API/API/obj/Release/net6.0/API.csproj.AssemblyReference.cache
+/Users/pablosouza/Desktop/API/API/API/obj/Release/net6.0/API.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pablosouza/Desktop/API/API/API/obj/Release/net6.0/API.AssemblyInfoInputs.cache
+/Users/pablosouza/Desktop/API/API/API/obj/Release/net6.0/API.AssemblyInfo.cs
+/Users/pablosouza/Desktop/API/API/API/obj/Release/net6.0/API.csproj.CoreCompileInputs.cache
+/Users/pablosouza/Desktop/API/API/API/obj/Release/net6.0/API.MvcApplicationPartsAssemblyInfo.cs
+/Users/pablosouza/Desktop/API/API/API/obj/Release/net6.0/API.MvcApplicationPartsAssemblyInfo.cache
+/Users/pablosouza/Desktop/API/API/API/obj/Release/net6.0/API.RazorAssemblyInfo.cache
+/Users/pablosouza/Desktop/API/API/API/obj/Release/net6.0/API.RazorAssemblyInfo.cs
+/Users/pablosouza/Desktop/API/API/API/obj/Release/net6.0/staticwebassets/msbuild.API.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/pablosouza/Desktop/API/API/API/obj/Release/net6.0/staticwebassets/msbuild.build.API.props
+/Users/pablosouza/Desktop/API/API/API/obj/Release/net6.0/staticwebassets/msbuild.buildMultiTargeting.API.props
+/Users/pablosouza/Desktop/API/API/API/obj/Release/net6.0/staticwebassets/msbuild.buildTransitive.API.props
+/Users/pablosouza/Desktop/API/API/API/obj/Release/net6.0/staticwebassets.pack.json
+/Users/pablosouza/Desktop/API/API/API/obj/Release/net6.0/staticwebassets.build.json
+/Users/pablosouza/Desktop/API/API/API/obj/Release/net6.0/staticwebassets.development.json
+/Users/pablosouza/Desktop/API/API/API/obj/Release/net6.0/scopedcss/bundle/API.styles.css
+/Users/pablosouza/Desktop/API/API/API/obj/Release/net6.0/API.csproj.CopyComplete
+/Users/pablosouza/Desktop/API/API/API/obj/Release/net6.0/API.dll
+/Users/pablosouza/Desktop/API/API/API/obj/Release/net6.0/refint/API.dll
+/Users/pablosouza/Desktop/API/API/API/obj/Release/net6.0/API.pdb
+/Users/pablosouza/Desktop/API/API/API/obj/Release/net6.0/API.genruntimeconfig.cache
+/Users/pablosouza/Desktop/API/API/API/obj/Release/net6.0/ref/API.dll
+C:\Users\pablo\OneDrive\Área de Trabalho\2\API\API\bin\Release\net6.0\appsettings.Development.json
+C:\Users\pablo\OneDrive\Área de Trabalho\2\API\API\bin\Release\net6.0\appsettings.json
+C:\Users\pablo\OneDrive\Área de Trabalho\2\API\API\bin\Release\net6.0\selenium-manager\linux\selenium-manager
+C:\Users\pablo\OneDrive\Área de Trabalho\2\API\API\bin\Release\net6.0\selenium-manager\macos\selenium-manager
+C:\Users\pablo\OneDrive\Área de Trabalho\2\API\API\bin\Release\net6.0\selenium-manager\windows\selenium-manager.exe
+C:\Users\pablo\OneDrive\Área de Trabalho\2\API\API\bin\Release\net6.0\API.staticwebassets.runtime.json
+C:\Users\pablo\OneDrive\Área de Trabalho\2\API\API\bin\Release\net6.0\API.exe
+C:\Users\pablo\OneDrive\Área de Trabalho\2\API\API\bin\Release\net6.0\API.deps.json
+C:\Users\pablo\OneDrive\Área de Trabalho\2\API\API\bin\Release\net6.0\API.runtimeconfig.json
+C:\Users\pablo\OneDrive\Área de Trabalho\2\API\API\bin\Release\net6.0\API.dll
+C:\Users\pablo\OneDrive\Área de Trabalho\2\API\API\bin\Release\net6.0\API.pdb
+C:\Users\pablo\OneDrive\Área de Trabalho\2\API\API\bin\Release\net6.0\DnsClient.dll
+C:\Users\pablo\OneDrive\Área de Trabalho\2\API\API\bin\Release\net6.0\SeleniumExtras.WaitHelpers.dll
+C:\Users\pablo\OneDrive\Área de Trabalho\2\API\API\bin\Release\net6.0\ExtentReports.dll
+C:\Users\pablo\OneDrive\Área de Trabalho\2\API\API\bin\Release\net6.0\Humanizer.dll
+C:\Users\pablo\OneDrive\Área de Trabalho\2\API\API\bin\Release\net6.0\JsonSubTypes.dll
+C:\Users\pablo\OneDrive\Área de Trabalho\2\API\API\bin\Release\net6.0\mailslurp.dll
+C:\Users\pablo\OneDrive\Área de Trabalho\2\API\API\bin\Release\net6.0\System.Web.Cors.dll
+C:\Users\pablo\OneDrive\Área de Trabalho\2\API\API\bin\Release\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\pablo\OneDrive\Área de Trabalho\2\API\API\bin\Release\net6.0\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+C:\Users\pablo\OneDrive\Área de Trabalho\2\API\API\bin\Release\net6.0\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+C:\Users\pablo\OneDrive\Área de Trabalho\2\API\API\bin\Release\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\pablo\OneDrive\Área de Trabalho\2\API\API\bin\Release\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\pablo\OneDrive\Área de Trabalho\2\API\API\bin\Release\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\pablo\OneDrive\Área de Trabalho\2\API\API\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\pablo\OneDrive\Área de Trabalho\2\API\API\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\pablo\OneDrive\Área de Trabalho\2\API\API\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\pablo\OneDrive\Área de Trabalho\2\API\API\bin\Release\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\pablo\OneDrive\Área de Trabalho\2\API\API\bin\Release\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\pablo\OneDrive\Área de Trabalho\2\API\API\bin\Release\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\pablo\OneDrive\Área de Trabalho\2\API\API\bin\Release\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\pablo\OneDrive\Área de Trabalho\2\API\API\bin\Release\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\pablo\OneDrive\Área de Trabalho\2\API\API\bin\Release\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\pablo\OneDrive\Área de Trabalho\2\API\API\bin\Release\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\pablo\OneDrive\Área de Trabalho\2\API\API\bin\Release\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\pablo\OneDrive\Área de Trabalho\2\API\API\bin\Release\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\pablo\OneDrive\Área de Trabalho\2\API\API\bin\Release\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\pablo\OneDrive\Área de Trabalho\2\API\API\bin\Release\net6.0\Microsoft.OpenApi.dll
+C:\Users\pablo\OneDrive\Área de Trabalho\2\API\API\bin\Release\net6.0\MongoDB.Bson.dll
+C:\Users\pablo\OneDrive\Área de Trabalho\2\API\API\bin\Release\net6.0\MongoDB.Driver.dll
+C:\Users\pablo\OneDrive\Área de Trabalho\2\API\API\bin\Release\net6.0\MongoDB.Driver.Core.dll
+C:\Users\pablo\OneDrive\Área de Trabalho\2\API\API\bin\Release\net6.0\MongoDB.Libmongocrypt.dll
+C:\Users\pablo\OneDrive\Área de Trabalho\2\API\API\bin\Release\net6.0\Mono.TextTemplating.dll
+C:\Users\pablo\OneDrive\Área de Trabalho\2\API\API\bin\Release\net6.0\Newtonsoft.Json.dll
+C:\Users\pablo\OneDrive\Área de Trabalho\2\API\API\bin\Release\net6.0\Polly.dll
+C:\Users\pablo\OneDrive\Área de Trabalho\2\API\API\bin\Release\net6.0\RazorEngine.NetCore.dll
+C:\Users\pablo\OneDrive\Área de Trabalho\2\API\API\bin\Release\net6.0\RestSharp.dll
+C:\Users\pablo\OneDrive\Área de Trabalho\2\API\API\bin\Release\net6.0\WebDriver.dll
+C:\Users\pablo\OneDrive\Área de Trabalho\2\API\API\bin\Release\net6.0\SharpCompress.dll
+C:\Users\pablo\OneDrive\Área de Trabalho\2\API\API\bin\Release\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\pablo\OneDrive\Área de Trabalho\2\API\API\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\pablo\OneDrive\Área de Trabalho\2\API\API\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\pablo\OneDrive\Área de Trabalho\2\API\API\bin\Release\net6.0\System.CodeDom.dll
+C:\Users\pablo\OneDrive\Área de Trabalho\2\API\API\bin\Release\net6.0\System.Security.Permissions.dll
+C:\Users\pablo\OneDrive\Área de Trabalho\2\API\API\bin\Release\net6.0\System.Text.Encodings.Web.dll
+C:\Users\pablo\OneDrive\Área de Trabalho\2\API\API\bin\Release\net6.0\System.Text.Json.dll
+C:\Users\pablo\OneDrive\Área de Trabalho\2\API\API\bin\Release\net6.0\xunit.abstractions.dll
+C:\Users\pablo\OneDrive\Área de Trabalho\2\API\API\bin\Release\net6.0\xunit.assert.dll
+C:\Users\pablo\OneDrive\Área de Trabalho\2\API\API\bin\Release\net6.0\xunit.core.dll
+C:\Users\pablo\OneDrive\Área de Trabalho\2\API\API\bin\Release\net6.0\xunit.execution.dotnet.dll
+C:\Users\pablo\OneDrive\Área de Trabalho\2\API\API\bin\Release\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\pablo\OneDrive\Área de Trabalho\2\API\API\obj\Release\net6.0\API.csproj.AssemblyReference.cache
+C:\Users\pablo\OneDrive\Área de Trabalho\2\API\API\obj\Release\net6.0\API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pablo\OneDrive\Área de Trabalho\2\API\API\obj\Release\net6.0\API.AssemblyInfoInputs.cache
+C:\Users\pablo\OneDrive\Área de Trabalho\2\API\API\obj\Release\net6.0\API.AssemblyInfo.cs
+C:\Users\pablo\OneDrive\Área de Trabalho\2\API\API\obj\Release\net6.0\API.csproj.CoreCompileInputs.cache
+C:\Users\pablo\OneDrive\Área de Trabalho\2\API\API\obj\Release\net6.0\API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\pablo\OneDrive\Área de Trabalho\2\API\API\obj\Release\net6.0\API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\pablo\OneDrive\Área de Trabalho\2\API\API\obj\Release\net6.0\API.RazorAssemblyInfo.cache
+C:\Users\pablo\OneDrive\Área de Trabalho\2\API\API\obj\Release\net6.0\API.RazorAssemblyInfo.cs
+C:\Users\pablo\OneDrive\Área de Trabalho\2\API\API\obj\Release\net6.0\staticwebassets.build.json
+C:\Users\pablo\OneDrive\Área de Trabalho\2\API\API\obj\Release\net6.0\staticwebassets.development.json
+C:\Users\pablo\OneDrive\Área de Trabalho\2\API\API\obj\Release\net6.0\scopedcss\bundle\API.styles.css
+C:\Users\pablo\OneDrive\Área de Trabalho\2\API\API\obj\Release\net6.0\API.csproj.CopyComplete
+C:\Users\pablo\OneDrive\Área de Trabalho\2\API\API\obj\Release\net6.0\API.dll
+C:\Users\pablo\OneDrive\Área de Trabalho\2\API\API\obj\Release\net6.0\refint\API.dll
+C:\Users\pablo\OneDrive\Área de Trabalho\2\API\API\obj\Release\net6.0\API.pdb
+C:\Users\pablo\OneDrive\Área de Trabalho\2\API\API\obj\Release\net6.0\API.genruntimeconfig.cache
+C:\Users\pablo\OneDrive\Área de Trabalho\2\API\API\obj\Release\net6.0\ref\API.dll
